@@ -1,0 +1,21 @@
+---
+title: "rconf blog test"
+author: "Evelyn"
+date: "2022-07-26"
+categories: [news, code, analysis]
+---
+
+This is a test blog post made at rconf
+
+
+Just the code...
+```{.r}
+2+2
+```
+
+
+Now just the results...
+```{r}
+#| echo: false
+2+2
+```
