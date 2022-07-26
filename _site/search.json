@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "posts/rconf/index.html",
-    "href": "posts/rconf/index.html",
+    "objectID": "posts/init/index.html",
+    "href": "posts/init/index.html",
     "title": "init",
     "section": "",
     "text": "This is a test post to try out the new Quarto framework. I am making a blog in qmd scripts and rendering/publishing in terminal - the simple process is very compelling! I’m participating in the workshop at rconf 2022 to learn how to migrate from RMarkdown to Quarto. I’ve learned a lot about Quarto, but I’ve learned even more about R and RMarkdown. I plan to take a step back after this conference and reflect on how I can improve my code and become a better coder."
@@ -19,12 +19,5 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
-  },
-  {
-    "objectID": "posts/init/index.html",
-    "href": "posts/init/index.html",
-    "title": "init",
-    "section": "",
-    "text": "This is a test post to try out the new Quarto framework. I am making a blog in qmd scripts and rendering/publishing in terminal - the simple process is very compelling! I’m participating in the workshop at rconf 2022 to learn how to migrate from RMarkdown to Quarto. I’ve learned a lot about Quarto, but I’ve learned even more about R and RMarkdown. I plan to take a step back after this conference and reflect on how I can improve my code and become a better coder."
   }
 ]
