@@ -1,9 +1,0 @@
----
-title: "init"
-author: "evelyn"
-date: "2022-07-27"
-categories: [news, code, analysis]
-image: "image.jpg"
----
-
-I'm doing a new thing! Hello, world!
