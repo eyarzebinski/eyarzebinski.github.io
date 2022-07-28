@@ -1,8 +1,0 @@
----
-title: "init"
-author: "Evelyn"
-date: "2022-07-27"
-categories: [news]
----
-
-Hello, world - I'm doing a new thing!
